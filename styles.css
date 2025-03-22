@@ -1,0 +1,36 @@
+body {
+   background-color: rgb(25, 25, 25);
+     color: white;
+     font-family: Arial;
+   }
+
+   h2 {
+      margin-top: 3.75rem;
+   }
+
+   .move-icons {
+      width: 50px;
+      aspect-ratio: 1;
+   }
+
+   .rps-buttons-container {
+      margin-top: 2rem;
+   }
+
+   .rps-buttons {
+      cursor: pointer;
+      background-color: inherit;
+      border: 3px solid whitesmoke;
+      padding: 35px;
+      border-radius: 65px;
+      margin-right: 10px;
+   }
+
+   .score {
+      margin-top: 4rem;
+   }
+
+   .reset-score {
+      font-size: 15px;
+      padding: 7px 15px;
+   }
