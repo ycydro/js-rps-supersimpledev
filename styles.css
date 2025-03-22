@@ -34,6 +34,14 @@ h2 {
    border: 3px solid whitesmoke;
    padding: 35px;
    border-radius: 65px;
+   transition: ease-out 0.455s;
+}
+
+.rps-buttons:hover {
+   transition: ease-out 0.345s;
+   padding: 45px;
+   border-radius: 75px;
+   background-color: whitesmoke;
 }
 
 .score {
