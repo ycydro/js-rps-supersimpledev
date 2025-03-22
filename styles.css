@@ -49,6 +49,7 @@ h2 {
 }
 
 .reset-score {
+   cursor: pointer;
    font-size: 15px;
    padding: 7px 15px;
 }
